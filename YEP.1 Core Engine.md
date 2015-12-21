@@ -1,7 +1,7 @@
 ## YEP.1 Core Engine
 Yanfly Engine Plugins is a plugin library made for RPG Maker MV, a wonderful piece of software to help you make that role playing game of your dreams. You can find out more about RPG Maker MV here.  
  
-【】Yanfly引擎是一个为PRG Maker MV制作的插件库，它是一个很棒的软件，可以用来帮你制作你自己梦想的游戏。你可以在这里找到很多关于RPG Maker MV的东西
+Yanfly引擎是一个为PRG Maker MV制作的插件库，它是一个很棒的软件，可以用来帮你制作你自己梦想的游戏。你可以在这里找到很多关于RPG Maker MV的东西
 
 The Core Engine plugin is a plugin that’s made to address the core aspects of your game project, from raising the limits of stats to changing the colors of your window objects. Also to be included with this plugin will be any bug fixes made for RPG Maker MV. This plugin will be periodically updated whenever there is a new bug that is fixed.  
 
