@@ -173,9 +173,7 @@ The following contains a list of the actions you can use inside the five action 
 
 下面这个列表包含了你可以在动作序列里执行的动作。每一个动作都有单独的功能并且需要明确的代码来开启。
 
-***
 #### ACTION ANIMATION
-***
 
 Plays the animation assigned to the skill/item. The animation will automatically select the skill’s/item’s assigned targets.
 
@@ -185,9 +183,7 @@ Usage Example:
 
 播放技能或者物品动画。动画将会自动选择技能指定的对象。
 
-***
 #### ACTION COMMON EVENT
-***
 
 Plays the common event found within the skill’s/item’s traits list. This will only play the last common event on the list, following the game engine’s original process. Nothing else will continue on the action list until the common event is finished.
 
@@ -197,9 +193,7 @@ Usage Example:
 
 执行技能或者物品内的公共事件。这个只会执行列表内最新的事件。在事件执行完之前没有其他的可以继续执行。
 
-***
 #### ACTION EFFECT: target
-***
 
 Causes the target(s) to take damage/healing from the skill/item and incurs any changes made to the target(s) such as buffs and states.
 
@@ -209,9 +203,7 @@ Usage Example:
 
 通过技能或者物品造成伤害或者回复而产生的改变，比如增益效果等等。例如动作效果。
 
-***
 #### ANIMATION WAIT: X
-***
 
 Waits x animaiton frames. Each frame for an animation does not last one game frame, but instead, several. To make life easier, you can use this to have the game wait x frames played for the animation.
 
@@ -223,9 +215,7 @@ Usage Example:
 
 等待x帧。通过用几帧代替一帧来延长时间。为了更方便，你可以用x帧来等待播放。
 
-***
 #### CAST ANIMATION
-***
 
 Plays an animation on the skill’s user. Will not occur if the action is an item or the user’s default normal attack.
 
@@ -235,9 +225,7 @@ Usage Example:
 
 在技能使用者身上播放动画。如果这个动作是默认动作，就不会发生。
 
-***
 #### CLEAR BATTLE LOG
-***
 
 Clears all the messages at the top of the screen.
 
@@ -247,9 +235,7 @@ Usage Example:
 
 清除屏幕顶部信息。
 
-***
 #### DEATH BREAK
-***
 
 If a user were to die for any reason during the middle of the skill (either via counter attack or reflection), this will force the remainder of the action sequences for the part of the skill/item to shut down and be skipped.
 
@@ -259,9 +245,7 @@ Usage Example:
 
 如果一个使用者在一场战斗中死亡（通过反击等等也算），这将会强制结束战斗序列。
 
-***
 #### DISPLAY ACTION
-***
 
 Displays the action’s name at the top of the battle log. It will remain there until the battle log is cleared.
 
@@ -271,9 +255,7 @@ Usage Example:
 
 在战斗记录里显示动作名称。这将一直持续到记录被清理。
 
-***
 #### IF … ELSE STATEMENTS
-***
 
 For those familiar with programming, you can use if…else statements to perform different actions based on different conditions. Use ‘if’ to specify a block of code to be executed, if a specified condition is true. Use ‘else’ to specify a block of code to be executed, if the same condition is false. Use ‘else if’ to specify a new condition to test, if the first condition is false. Use ‘end’ to specify where the conditions are to end.
 
@@ -304,9 +286,7 @@ Usage Example:
 
 注意：你不必要按照标准格式来书写代码。但是标准格式会看起来很舒服。
 
-***
 #### IMMORTAL: targets, true/false
-***
 
 Sets the targets to a state of immortality so that they don’t die in the middle of an attack. This is to ensure every action effect goes through.
 
@@ -316,9 +296,7 @@ Usage Example:
 	
 设置永久状态使其不会再战斗中消失。这将确保所有行动效果都发生。
 
-***
 #### MOTION WAIT: target
-***
 
 Makes the game wait 12 frames if the target(s) performing the action is an actor. If the target(s) is not an actor, no waiting will be done.
 
@@ -328,9 +306,7 @@ Usage Example:
 	
 如果对象是角色，则等待12帧。如果不是角色，则不需要等待。
 
-***
 #### PERFORM ACTION
-***
 
 Causes actors to step forward and swing their weapon, thrust it, however the motion that is determined will be automatically done by the game.
 
@@ -339,9 +315,8 @@ Usage Example:
 	perform action
 
 使角色上前行走一步并挥舞武器，或者推击。这个在系统默认中是自动执行的。
-***
+
 #### PERFORM FINISH
-***
 
 Causes actor to move back to its home spot.
 
@@ -351,9 +326,7 @@ Usage Example:
 
 使角色向后回到初始位置。	
 
-***
 #### PERFORM START
-***
 
 Causes actor to move forward from its home spot.
 
@@ -363,9 +336,7 @@ Usage Example:
 
 是角色向前回到初始位置。
 
-***
 #### WAIT: frames
-***
 
 Makes the game wait a certain amount of frames before going on to the next action in the action sequence.
 
@@ -375,9 +346,7 @@ Usage Example:
 	
 在进行行动序列的下一步之前等待确定的帧数。
 
-***
 #### WAIT FOR ANIMATION
-***
 
 Waits for all animations to finish before going on to the next action in the action sequence.
 
@@ -387,9 +356,7 @@ Usage Example:
 	
 在进行行动序列的下一步之前等待所有动画播放完毕。
 
-***
 #### WAIT FOR EFFECT
-***
 
 Waits for all effects to finish playing before continuing on.
 
@@ -399,9 +366,7 @@ Usage Example:
 
 在继续之前等待所有效果发生完毕。
 
-***
 #### WAIT FOR MOVEMENT
-***
 
 Waits for all battler movements to finish before going on to the next action in the action sequence.
 
@@ -411,9 +376,7 @@ Usage Example:
 	
 在进行行动序列的下一步之前等待所有战斗移动完成。
 
-***
 #### WAIT FOR NEW LINE
-***
 
 Waits for a new line to appear in the log window before going on to the next action in the action sequence.
 
