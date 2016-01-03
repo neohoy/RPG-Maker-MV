@@ -20,6 +20,8 @@ Usage Example:
 	add atk buff: user, 3, show
 	add def buff: target, 8
 
+增益状态效果的影响。你可以使用生命值，魔法值，攻击，防御，魔法，魔法防御，敏捷或者幸运来替代状态。目标后的数字是它会持续的回合数，你也可以将增益效果显示在战斗页面。
+
 #### ADD stat DEBUFF: target, (turns), (show)
 Affects the target with ‘stat’ debuff. Replace ‘stat’ with ‘hp’, ‘mp’, ‘atk’, ‘def’, ‘mat’, ‘mdf’, ‘agi’, or ‘luk’. If you include a number after the target, it will debuff the target by that many turns. Include ‘show’ and it will show the target getting the debuff applied in the battle log.
 
@@ -27,6 +29,8 @@ Usage Example:
 
 	add atk debuff: user, 3, show
 	add def debuff: target, 8
+
+减益状态效果的影响。你可以使用生命值，魔法值，攻击，防御，魔法，魔法防御，敏捷或者幸运来替代状态。目标后的数字是它会持续的回合数，你也可以将增益效果显示在战斗页面。
 
 #### ADD STATE X: target, (show)
 #### ADD STATE X, Y, Z: target (show)
@@ -37,6 +41,8 @@ Usage Example:
 	add state 5: target
 	add state 6, 7, 8: user, show
 
+影响目标状态X,如果公式内包含Y,Z也可以输入。你可以将其显示在战斗页面。
+
 #### ANIMATION X: target, (mirror)
 
 Plays animation X on target. ‘Mirror’ will cause the animation to appear mirrored. Keep in mind that animations played on actors will automatically be mirrored and setting the mirror option will reverse it and have it appear unmirrored.
@@ -45,6 +51,8 @@ Usage Example:
 	
 	animation 5: user
 	animation 6: target, mirror
+
+在目标身上播放动画X。镜像选项将会动画镜像化。想象一下角色身上的动画会自动镜像播放。设置镜像选项将会关闭镜像功能。
 
 #### BGM: STOP
 #### BGM: MEMORIZE
@@ -61,11 +69,12 @@ Usage Example:
 	bgm: Battle7
 	bgm: Theme2, 80, 100, 0
 
+手动改变背景音乐。停止选项将会停止播放。记忆选项将会记住当前音乐。回忆选项将会播放记住的音乐。如果你选择文件名，游戏会播放它。使用这个选项可以控制音量，场景和管理。如果你没有输入相关数值，它将启用默认的插件参数。
+
 #### BGS: STOP
 #### BGS: MEMORIZE
 #### BGS: MEMORY
 #### BGS: filename, (volume), (pitch), (pan)
-
 Changes the current background sound at hand. ‘Stop’ will stop any BGS from playing. ‘Memorize’ will memorize the current BGS. ‘Memory’ will replay the memorized BGS if there is one playing. If you choose a filename (without the filename extensions), the game will play that BGS instead. Using this option opens up access to the volume, pitch, and pan control, all of which are optional to use. If no values are inputed for volume, pitch, and pan, the game will use the settings in this plugin’s parameters.
 
 Usage Example: 
@@ -75,6 +84,8 @@ Usage Example:
 	bgs: memory
 	bgs: City
 	bgs: Darkness, 80, 100, 0
+
+手动改变背景声效。停止选项将会停止播放。记忆选项将会记住当前声效。回忆选项将会播放记住的声效。如果你选择文件名，游戏会播放它。使用这个选项可以控制音量，场景和管理。如果你没有输入相关数值，它将启用默认的插件参数。
 
 #### CHANGE SWITCH X: on/off/toggle/switch z
 #### CHANGE SWITCH X..Y: on/off/toggle/switch z
@@ -88,6 +99,8 @@ Usage Example:
 	change switch 2..4: off
 	change switch 5 to 8: toggle
 	change switch 9: switch 5
+
+改变游戏开关或者其开关的值。
 
 #### CHANGE VARIABLE X = Y
 #### CHANGE VARIABLE X += Y
@@ -107,6 +120,7 @@ Usage Example:
 	change variable 9 /= 10
 	change variable 11 %= 12
 
+在战斗当中通过Y改变变量X的值。X,Y可以是整数或者代码。
 #### COLLAPSE: target, (force)
 
 If the target is to be dead at this point, this will be the point in the action sequence where you can promt the game to kill the target as long as the target has 0 HP. If you want to force the death of the target, include the ‘force’ command after the targets.
@@ -116,6 +130,7 @@ Usage Example:
 	collapse: user
 	collapse: target, force
 
+如果目标死亡，
 #### COMMON EVENT: X
 
 Plays common event X at that point in the action sequence. Nothing else will continue until the common event is finished.
