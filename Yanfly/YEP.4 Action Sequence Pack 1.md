@@ -130,7 +130,7 @@ Usage Example:
 	collapse: user
 	collapse: target, force
 
-如果目标死亡，
+如果目标死亡，当你在攻击目标时，只要目标血量降为0，就可以让其成为行动序列的一部分。如果你想强制目标死亡，请使用force命令。
 #### COMMON EVENT: X
 
 Plays common event X at that point in the action sequence. Nothing else will continue until the common event is finished.
@@ -139,6 +139,7 @@ Usage Example:
 
 	common event: 1
 
+在行动序列中执行公共事件X。在事件执行完毕之前不会有其他动作。
 #### EVAL: code
 
 For those who’d like to do something that the current Battle Engine doesn’t support, you can use an eval function to have a piece of code occur. Users beware, for those unfamiliar with JavaScript should avoid handling this action sequence command.
@@ -146,7 +147,7 @@ For those who’d like to do something that the current Battle Engine doesn’t 
 Usage Example: 
 
 	eval: $gameParty.loseItem($dataItems[3], 10)
-
+对于有些想完成当前游戏战斗系统不支持的事情的人，你可以使用代码来实现。使用者应注意，对于不熟悉JS命令的人，请避免使用这个命令。
 #### GAIN ITEM X: Y LOSE ITEM X: Y
 #### GAIN WEAPON X: Y LOSE WEAPON X: Y
 #### GAIN ARMOR X: Y LOSE ARMOR X: Y
