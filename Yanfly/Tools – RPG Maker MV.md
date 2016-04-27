@@ -4,6 +4,8 @@
 2. Notetag Reference Guide  插件设置参考指南
 3. YEP Auto-Update  插件自动升级软件
 4. Enemy Level Calculator  敌方等级计算器
+5. FlyingDream’s Armor Scaling Calculator  护甲范围计算器
+6. Action Sequence Pack Documentation  动作序列指南
 
 ***
 
@@ -22,3 +24,11 @@ Made by Nekoyoubi.This AutoHotkey script will give you configurable, scheduled u
 4. Enemy Level Calculator  敌方等级计算器   
 created by FlyingDream.The Enemy Levels plugin can be difficult to balance. FlyingDream made this wonderful way to calculate enemy stats by various levels using different base values, percent rates, and flat amounts to help you see the variations across different levels!  
 FlyingDream制作。敌人等级插件是很难去平衡数据的。FlyingDream制作了非常棒的方式来计算不同等级参数的敌人状态。包含基础公式数据，可以让你更清晰的看到不同等级的变化。
+
+5. FlyingDream’s Armor Scaling Calculator  护甲范围计算器  
+Figuring out the right amount of defense values to give your actors when using the Armor Scaling plugin can be a challenge. This tool will allow you to test various defense values to see how armor scaling will affect different base damage values to help assist you in figuring out how to make armor scaling work right for your game.  
+FlyingDream制作。当你使用Armor Scaling插件时，这个计算器可以计算出防御值。这个工具可以让你测试不同的防御值来查看护甲范围影响伤害只，方便协助你制作。
+
+6. Action Sequence Pack Documentation  动作序列指南  
+Not a plugin but compiled and detailed documentation made by the various users of the RPG Maker community!  
+这不是一个插件，但是有RPG Maker社区众多使用者完成的详细指南
