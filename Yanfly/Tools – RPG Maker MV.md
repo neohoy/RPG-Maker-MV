@@ -6,6 +6,8 @@
 4. Enemy Level Calculator  敌方等级计算器
 5. FlyingDream’s Armor Scaling Calculator  护甲范围计算器
 6. Action Sequence Pack Documentation  动作序列指南
+7. FlyingDream’s General Parameter Calculator  参数计算器
+8. FlyingDream’s EXP Calculator  经验计算器
 
 ***
 
@@ -32,3 +34,11 @@ FlyingDream制作。当你使用Armor Scaling插件时，这个计算器可以�
 6. Action Sequence Pack Documentation  动作序列指南  
 Not a plugin but compiled and detailed documentation made by the various users of the RPG Maker community!  
 这不是一个插件，但是有RPG Maker社区众多使用者完成的详细指南
+
+7. FlyingDream’s General Parameter Calculator  参数计算器  
+This is a calculator made for the Base Parameter Control and Class Base Parameters plugins! FlyingDream made this helpful tool to calculate the changes made to the various RPG Maker MV parameters and show their growth across different levels!  
+这是一个为Base Parameter Control和Class Base Parameters插件设置的计算器。FlyingDream制作了这个非常有用的工具来计算MV中参数的改变，你可以看到不同等级下他们的成长信息
+
+8. FlyingDream’s EXP Calculator  经验计算器  
+For those using the Class Base Parameters plugin, developers are given the option to create their own EXP formula. This tool exists to help game developers figure out what kind of formula to use for their game.  
+对于那些使用 Class Base Parameters插件的人，开发者如果想要创建自定义经验公式。这个工具可以帮助游戏开发者计算出哪种公式更有用。
