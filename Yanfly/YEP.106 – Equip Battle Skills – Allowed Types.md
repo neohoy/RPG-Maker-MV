@@ -1,0 +1,4 @@
+##YEP.106 – Equip Battle Skills – Allowed Types
+For those who are using the Equip Battle Skills plugin, you may have noticed that the ‘Skills’ command replaces all skill types in the battle command window. For those who’d like to have certain skill types continue working, you can use this plugin to create an exception for it. The skill types found listed in the plugin parameters will be given an exception and will be shown in battle. Any skill that contains the skill type also cannot be equipped in a battle skill slot.
+
+对于使用Equip Battle Skills插件的人，你可能注意到‘技能’命令栏替代了战斗命令里所有的技能类型。对于那些只想让特定技能类型生效的人，你可以使用这个插件。插件参数里可以设置不需要的技能类型。
