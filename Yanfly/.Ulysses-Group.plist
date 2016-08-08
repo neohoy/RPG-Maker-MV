@@ -1,0 +1,1594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resolutionData</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>Resources – RPG Maker MV.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42406499</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>Tools – RPG Maker MV.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42410803</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.1 - Core Engine.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42407697</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.10 - Equip Core.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42407602</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.100 – Save Core.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42411202</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.101 – Battle Select Cursor .md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42411298</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.102 – Auto Switches – RPG Maker MV.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42411298</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.103 – Animated Tile Option.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42411298</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.104 – New Game+ – RPG Maker MV.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42411399</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.105 – Event Encounter Aid.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42411399</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.106 – Equip Battle Skills – Allowed Types.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.424115</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.107 – Element Core.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.424115</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.108 – Actor Party Switch.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42411602</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.109 – Common Event Menu Setup Pack 2.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42411602</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.11 - Item Core.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42407602</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.110 – Call Event .md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42411602</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.111 – Icon Balloons.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42411703</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.112 – Load Custom Font – RPG Maker MV.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230954.90684402</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>3</integer>
+				</dict>
+			</dict>
+			<key>YEP.12 - Item Upgrade Slots.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42406702</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.13 - Auto Passive States.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42407602</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.14 - Main Menu Manager.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42407501</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.15 – Base Troop Events.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42409098</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.16 – Battle A.I. Core.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42410302</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.17 – Region Events.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42408901</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.18 – Region Restrictions.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42408901</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.19 – Save Event Locations.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42409301</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.2 - Message Core.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42407501</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.20 - Event Chase Player.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42407399</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.21 – External Links.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42409199</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.22 – Instant Cast.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42408597</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.23 - Taunt.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42407399</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.24 - Battle System – Active Turn Battle.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42407399</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.25 – Damage Core.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42409801</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.26 – Critical Control.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42409801</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.27 – Job Points.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.424088</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.28 - Skill Learn System.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42407298</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.29 – Party System.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.424088</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.3 - Battle Engine Core.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42407298</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.30  Visual HP Gauges.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42407298</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.31  Visual ATB Gauge.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42407203</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.32 class change core.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42407203</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.33 – Armor Scaling.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42409801</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.34  Subclass.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42407101</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.35 – Stop Map Movement.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42409402</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.36 – Map Gold Window.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42409301</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.37  Status Menu Core.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42407101</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.38 Battle System – Charge Turn Battle.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42407101</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.39 – Battle Statistics.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42408699</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.3b - Battle Engine Core (Part II) Action Sequences.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42407</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.4 – Action Sequence Pack 1.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42409998</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.40 – Event Mini Label.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42409199</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.41 – Actor Variables.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42408597</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.42  Battle Status Window.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42407</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.43 – Skill Cost Items.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42408502</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.44  Animated Sideview Enemies.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42407</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.45 – Swap Enemies.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42409497</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.46 – Gab Window.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42409301</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.47 – Extra Enemy Drops.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42409903</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.48 – Profile Status Page.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42408699</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.49 – Credits Page.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42409199</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.5 – Action Sequence Pack 2.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42409998</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.50 – Buffs &amp; States Core.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.424097</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.51  Weapon Unleash.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42406899</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.52 – Region Battlebacks.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.424088</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.53 – Shop Menu Core.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42408299</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.54 – Row Formation.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42408901</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.55 – Enhanced TP.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42409003</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.56 – Limited Skill Uses.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42408401</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.57 – More TP Modes.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42409003</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.58 – Item Synthesis.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42408299</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.59  Aftermath Level Up.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42406899</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.6 – Action Sequence Pack 3.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42409903</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.60 – More Currencies.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42408401</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.61 – Button Common Events.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42409098</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.62 – Slippery Tiles.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42409402</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.63  Weapon Animation.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42406899</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.64 – Enemy Levels.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42408699</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.65 – Extended Message Pack 1.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42409599</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.66 – Steal &amp; Snatch.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42409003</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.67 – Party Limit Gauge.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42408401</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.68 – Smart Jump.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42409402</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.69 – Extra Parameter Formula.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42409599</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.7 - Victory Aftermath.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42406797</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.70 – Absorption Barrier.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42409998</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.71 – Life Steal.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.424097</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.72 – Item Durability.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42408502</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.73 – Message Macros.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42409599</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.74 – Target Core.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.424097</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.75 – Equip Requirements.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42409497</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.76 – Tick-Based Regeneration.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42410302</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.77 – Dash Toggle.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42410398</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.78 – Special Param Formula.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42410398</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.79 – Event Chase Stealth.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42410398</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.8 - Skill Core.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42406797</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.80 – Keyboard Config.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42410499</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.81 – FPS Synch Option.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42410499</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.82 – Counter Control.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42410499</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.83 – Change Battle Equip.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.424106</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.84 – Area of Effect.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.424106</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.85 – Hit Accuracy.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.424106</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.86 – Base Parameter Control.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42410702</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.87 – Map Select Skill.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42410702</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.88 – Picture Common Events.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42410803</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.89 – State Categories.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42410803</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.9 – Skill Cooldowns.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42408502</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.90 – Equip Battle Skills.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42410898</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.91 – Equip Skill Tiers.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42410898</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.92 – Attachable Augments.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42410898</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.93 – Force Advantage.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42411</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.94 – Selection Control.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42411</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.95 – Class Base Parameters.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42411</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.96 – Item Disassemble.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42411101</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.97 – Equip Customize Command.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42411101</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.98 – Common Event Menu.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42411202</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>YEP.99 – Common Event Menu Setup Pack 1.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42411202</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>Yanfly Engine Plugins - Element Reflect.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42408198</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>Yanfly Engine Plugins - Gamepad Config.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42408198</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>Yanfly Engine Plugins - ItemBook.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42408103</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>Yanfly Engine Plugins - Screen Resolution.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42408103</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>Yanfly Engine Plugins - Template.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491230937.42408001</real>
+				<key>version</key>
+				<dict>
+					<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+		</dict>
+		<key>sheetOrder</key>
+		<real>491230982.69159502</real>
+	</dict>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>Resources – RPG Maker MV.md</string>
+		</array>
+		<array>
+			<string>YEP.112 – Load Custom Font – RPG Maker MV.md</string>
+		</array>
+		<array>
+			<string>YEP.12 - Item Upgrade Slots.md</string>
+		</array>
+		<array>
+			<string>YEP.8 - Skill Core.md</string>
+		</array>
+		<array>
+			<string>YEP.7 - Victory Aftermath.md</string>
+		</array>
+		<array>
+			<string>YEP.63  Weapon Animation.md</string>
+		</array>
+		<array>
+			<string>YEP.59  Aftermath Level Up.md</string>
+		</array>
+		<array>
+			<string>YEP.51  Weapon Unleash.md</string>
+		</array>
+		<array>
+			<string>YEP.44  Animated Sideview Enemies.md</string>
+		</array>
+		<array>
+			<string>YEP.42  Battle Status Window.md</string>
+		</array>
+		<array>
+			<string>YEP.3b - Battle Engine Core (Part II) Action Sequences.md</string>
+		</array>
+		<array>
+			<string>YEP.38 Battle System – Charge Turn Battle.md</string>
+		</array>
+		<array>
+			<string>YEP.37  Status Menu Core.md</string>
+		</array>
+		<array>
+			<string>YEP.34  Subclass.md</string>
+		</array>
+		<array>
+			<string>YEP.32 class change core.md</string>
+		</array>
+		<array>
+			<string>YEP.31  Visual ATB Gauge.md</string>
+		</array>
+		<array>
+			<string>YEP.30  Visual HP Gauges.md</string>
+		</array>
+		<array>
+			<string>YEP.3 - Battle Engine Core.md</string>
+		</array>
+		<array>
+			<string>YEP.28 - Skill Learn System.md</string>
+		</array>
+		<array>
+			<string>YEP.24 - Battle System – Active Turn Battle.md</string>
+		</array>
+		<array>
+			<string>YEP.23 - Taunt.md</string>
+		</array>
+		<array>
+			<string>YEP.20 - Event Chase Player.md</string>
+		</array>
+		<array>
+			<string>YEP.2 - Message Core.md</string>
+		</array>
+		<array>
+			<string>YEP.14 - Main Menu Manager.md</string>
+		</array>
+		<array>
+			<string>YEP.13 - Auto Passive States.md</string>
+		</array>
+		<array>
+			<string>YEP.11 - Item Core.md</string>
+		</array>
+		<array>
+			<string>YEP.10 - Equip Core.md</string>
+		</array>
+		<array>
+			<string>YEP.1 - Core Engine.md</string>
+		</array>
+		<array>
+			<string>Yanfly Engine Plugins - Template.md</string>
+		</array>
+		<array>
+			<string>Yanfly Engine Plugins - Screen Resolution.md</string>
+		</array>
+		<array>
+			<string>Yanfly Engine Plugins - ItemBook.md</string>
+		</array>
+		<array>
+			<string>Yanfly Engine Plugins - Gamepad Config.md</string>
+		</array>
+		<array>
+			<string>Yanfly Engine Plugins - Element Reflect.md</string>
+		</array>
+		<array>
+			<string>YEP.58 – Item Synthesis.md</string>
+		</array>
+		<array>
+			<string>YEP.53 – Shop Menu Core.md</string>
+		</array>
+		<array>
+			<string>YEP.60 – More Currencies.md</string>
+		</array>
+		<array>
+			<string>YEP.56 – Limited Skill Uses.md</string>
+		</array>
+		<array>
+			<string>YEP.67 – Party Limit Gauge.md</string>
+		</array>
+		<array>
+			<string>YEP.72 – Item Durability.md</string>
+		</array>
+		<array>
+			<string>YEP.9 – Skill Cooldowns.md</string>
+		</array>
+		<array>
+			<string>YEP.43 – Skill Cost Items.md</string>
+		</array>
+		<array>
+			<string>YEP.22 – Instant Cast.md</string>
+		</array>
+		<array>
+			<string>YEP.41 – Actor Variables.md</string>
+		</array>
+		<array>
+			<string>YEP.39 – Battle Statistics.md</string>
+		</array>
+		<array>
+			<string>YEP.48 – Profile Status Page.md</string>
+		</array>
+		<array>
+			<string>YEP.64 – Enemy Levels.md</string>
+		</array>
+		<array>
+			<string>YEP.27 – Job Points.md</string>
+		</array>
+		<array>
+			<string>YEP.29 – Party System.md</string>
+		</array>
+		<array>
+			<string>YEP.52 – Region Battlebacks.md</string>
+		</array>
+		<array>
+			<string>YEP.17 – Region Events.md</string>
+		</array>
+		<array>
+			<string>YEP.18 – Region Restrictions.md</string>
+		</array>
+		<array>
+			<string>YEP.54 – Row Formation.md</string>
+		</array>
+		<array>
+			<string>YEP.66 – Steal &amp; Snatch.md</string>
+		</array>
+		<array>
+			<string>YEP.55 – Enhanced TP.md</string>
+		</array>
+		<array>
+			<string>YEP.57 – More TP Modes.md</string>
+		</array>
+		<array>
+			<string>YEP.15 – Base Troop Events.md</string>
+		</array>
+		<array>
+			<string>YEP.61 – Button Common Events.md</string>
+		</array>
+		<array>
+			<string>YEP.49 – Credits Page.md</string>
+		</array>
+		<array>
+			<string>YEP.40 – Event Mini Label.md</string>
+		</array>
+		<array>
+			<string>YEP.21 – External Links.md</string>
+		</array>
+		<array>
+			<string>YEP.46 – Gab Window.md</string>
+		</array>
+		<array>
+			<string>YEP.36 – Map Gold Window.md</string>
+		</array>
+		<array>
+			<string>YEP.19 – Save Event Locations.md</string>
+		</array>
+		<array>
+			<string>YEP.62 – Slippery Tiles.md</string>
+		</array>
+		<array>
+			<string>YEP.68 – Smart Jump.md</string>
+		</array>
+		<array>
+			<string>YEP.35 – Stop Map Movement.md</string>
+		</array>
+		<array>
+			<string>YEP.45 – Swap Enemies.md</string>
+		</array>
+		<array>
+			<string>YEP.75 – Equip Requirements.md</string>
+		</array>
+		<array>
+			<string>YEP.69 – Extra Parameter Formula.md</string>
+		</array>
+		<array>
+			<string>YEP.65 – Extended Message Pack 1.md</string>
+		</array>
+		<array>
+			<string>YEP.73 – Message Macros.md</string>
+		</array>
+		<array>
+			<string>YEP.74 – Target Core.md</string>
+		</array>
+		<array>
+			<string>YEP.71 – Life Steal.md</string>
+		</array>
+		<array>
+			<string>YEP.50 – Buffs &amp; States Core.md</string>
+		</array>
+		<array>
+			<string>YEP.25 – Damage Core.md</string>
+		</array>
+		<array>
+			<string>YEP.33 – Armor Scaling.md</string>
+		</array>
+		<array>
+			<string>YEP.26 – Critical Control.md</string>
+		</array>
+		<array>
+			<string>YEP.47 – Extra Enemy Drops.md</string>
+		</array>
+		<array>
+			<string>YEP.6 – Action Sequence Pack 3.md</string>
+		</array>
+		<array>
+			<string>YEP.5 – Action Sequence Pack 2.md</string>
+		</array>
+		<array>
+			<string>YEP.4 – Action Sequence Pack 1.md</string>
+		</array>
+		<array>
+			<string>YEP.70 – Absorption Barrier.md</string>
+		</array>
+		<array>
+			<string>YEP.16 – Battle A.I. Core.md</string>
+		</array>
+		<array>
+			<string>YEP.76 – Tick-Based Regeneration.md</string>
+		</array>
+		<array>
+			<string>YEP.77 – Dash Toggle.md</string>
+		</array>
+		<array>
+			<string>YEP.78 – Special Param Formula.md</string>
+		</array>
+		<array>
+			<string>YEP.79 – Event Chase Stealth.md</string>
+		</array>
+		<array>
+			<string>YEP.80 – Keyboard Config.md</string>
+		</array>
+		<array>
+			<string>YEP.81 – FPS Synch Option.md</string>
+		</array>
+		<array>
+			<string>YEP.82 – Counter Control.md</string>
+		</array>
+		<array>
+			<string>YEP.83 – Change Battle Equip.md</string>
+		</array>
+		<array>
+			<string>YEP.84 – Area of Effect.md</string>
+		</array>
+		<array>
+			<string>YEP.85 – Hit Accuracy.md</string>
+		</array>
+		<array>
+			<string>YEP.86 – Base Parameter Control.md</string>
+		</array>
+		<array>
+			<string>YEP.87 – Map Select Skill.md</string>
+		</array>
+		<array>
+			<string>YEP.88 – Picture Common Events.md</string>
+		</array>
+		<array>
+			<string>Tools – RPG Maker MV.md</string>
+		</array>
+		<array>
+			<string>YEP.89 – State Categories.md</string>
+		</array>
+		<array>
+			<string>YEP.90 – Equip Battle Skills.md</string>
+		</array>
+		<array>
+			<string>YEP.91 – Equip Skill Tiers.md</string>
+		</array>
+		<array>
+			<string>YEP.92 – Attachable Augments.md</string>
+		</array>
+		<array>
+			<string>YEP.93 – Force Advantage.md</string>
+		</array>
+		<array>
+			<string>YEP.94 – Selection Control.md</string>
+		</array>
+		<array>
+			<string>YEP.95 – Class Base Parameters.md</string>
+		</array>
+		<array>
+			<string>YEP.96 – Item Disassemble.md</string>
+		</array>
+		<array>
+			<string>YEP.97 – Equip Customize Command.md</string>
+		</array>
+		<array>
+			<string>YEP.98 – Common Event Menu.md</string>
+		</array>
+		<array>
+			<string>YEP.99 – Common Event Menu Setup Pack 1.md</string>
+		</array>
+		<array>
+			<string>YEP.100 – Save Core.md</string>
+		</array>
+		<array>
+			<string>YEP.101 – Battle Select Cursor .md</string>
+		</array>
+		<array>
+			<string>YEP.102 – Auto Switches – RPG Maker MV.md</string>
+		</array>
+		<array>
+			<string>YEP.103 – Animated Tile Option.md</string>
+		</array>
+		<array>
+			<string>YEP.104 – New Game+ – RPG Maker MV.md</string>
+		</array>
+		<array>
+			<string>YEP.105 – Event Encounter Aid.md</string>
+		</array>
+		<array>
+			<string>YEP.106 – Equip Battle Skills – Allowed Types.md</string>
+		</array>
+		<array>
+			<string>YEP.107 – Element Core.md</string>
+		</array>
+		<array>
+			<string>YEP.108 – Actor Party Switch.md</string>
+		</array>
+		<array>
+			<string>YEP.109 – Common Event Menu Setup Pack 2.md</string>
+		</array>
+		<array>
+			<string>YEP.110 – Call Event .md</string>
+		</array>
+		<array>
+			<string>YEP.111 – Icon Balloons.md</string>
+		</array>
+	</array>
+	<key>sheetOrder</key>
+	<string>title</string>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+			<integer>4</integer>
+		</dict>
+		<key>sheetOrder</key>
+		<dict>
+			<key>495e4fc4613b9428471ceacbb08ebf301b49b1d7b3f89b7855adc998f95117c5</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>
