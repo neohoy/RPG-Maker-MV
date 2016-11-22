@@ -1,4 +1,4 @@
-`## YEP.2 Message Core
+## YEP.2 Message Core
 The Message Core plugin adds more functionality to the default RPG Maker MV message system, enabling more text codes, a name box, and adjustable message window sizes!
 
 这个信息核心插件为RPG Maker MV的默认信息系统添加了很多功能，可以使用更多的文本代码，名字框，甚至可以调整文本框大小
